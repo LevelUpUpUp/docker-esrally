@@ -72,3 +72,5 @@ esrally compare --baseline=<race1> --contencer=<race2>
 ```
 
 You should comparison between the metrics recorded...
+
+[Sample result](./TOURNAMENT.md)
